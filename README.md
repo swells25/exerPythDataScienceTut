@@ -46,6 +46,9 @@ See updated instructions for working with environments using Anaconda Navigator 
 
 ## Follow along with this tutorial
 
+
+
+
 * Complete the Learn the Data Science Tutorials section at: https://www.learnpython.org/
   * Enter each code section in a separate cell and run it in your Jupyter Notebook file.
   * An easy short cut is to hit Shift-Enter after you've entered the code in a cell. This runs the cell and creates a new one below for the next code block.
